@@ -38,7 +38,7 @@ Below are some key terms/technologies utilized in this project.
 #### Network Diagram
 <br>
 <p align="center">
-  <img width="60%" src="diagram.PNG">
+  <img width="60%" src="diagram.png">
 </p>
 
 __1. Hardware System__ (highlighted in green)
