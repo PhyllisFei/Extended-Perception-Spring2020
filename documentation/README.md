@@ -1,6 +1,8 @@
 ### CoronaHack
 __Phyllis Fei__
+<br>
 __Extended Perception Spring 2020__
+<br>
 __Interactive Media Arts, NYU Shanghai__
 
 ---
